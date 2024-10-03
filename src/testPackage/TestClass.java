@@ -6,5 +6,6 @@ public class TestClass {
 		System.out.println("Testing...");
 		System.out.println("Second commit");
 		System.out.println("Third change");
+		System.out.println("Fourth change");
 	}
 }
