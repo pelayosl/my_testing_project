@@ -2,6 +2,6 @@ package testPackage;
 
 public class TestClass2 {
 	public TestClass2() {
-		System.out.println("Last change");
+		System.out.println("Last change 2");
 	}
 }
