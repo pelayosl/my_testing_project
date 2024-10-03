@@ -8,7 +8,6 @@ public class TestClass {
 		System.out.println("Third change");
 		System.out.println("Fourth change");
 		System.out.println("Fifth change");
-		System.out.println("MASTER rebase 1st commit");
-		System.out.println("MASTER rebase 2nd commit");
+		System.out.println("Change-rebase 1st commit");
 	}
 }
